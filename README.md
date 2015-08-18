@@ -1,25 +1,23 @@
 # Name
 
-write-your-name
+Jose Vieitez
 
 # How many points have you earned?
 
-0/100
+90/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
-
+4
 # When did you first start working on this week's learning challenges?
 
 fill-in-your-answer
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
-
+trying to create that scatterplot!
 # Show and tell (8 points)
 
 ## Link (2 points)
@@ -36,41 +34,41 @@ fill-in-your-answer
 
 # 1. (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/p8sQxXq.png?raw=true)
 
-[checkpoint](checkpoint.html)
+[checkpoint](checkpoint1.html)
 
 # 2. (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/lIQYRm7.png?raw=true)
 
-[checkpoint](checkpoint.html)
+[checkpoint](checkpoint2.html)
 
 # 3. (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/4RLPZxW.png?raw=true)
 
-[checkpoint](checkpoint.html)
+[checkpoint](checkpoint3.html)
 
 # 4. (3 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/hhhhNCG.png?raw=true)
 
-[checkpoint](checkpoint.html)
+[checkpoint](checkpoint4.html)
 
 ## Challenges (4 points x 3 = 12 points)
 
 # 1. (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/RT8yMTH.png?raw=true)
 
 # 2. (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/HBUviH2.png?raw=true)
 
 # 3. (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/AxXS4Bi.png?raw=true)
 
 [challenge3](challenge3.html)
 
@@ -78,93 +76,8 @@ fill-in-your-answer
 
 # MongoDB II
 
-## Checkpoints (6 points x 2 = 12 points)
-
-### 1 (6 points)
-
-[mongodb js code collecting github events about our course](mongodb-github.js)
-
-### 2 (6 points)
-
-![terminal output of mongodb query](screenshot.png?raw=true)
-
-## Challenge 1 (4 points x 10 = 40 points)
-
-### 1 (4 points)
-
-> db.course_events.[complete this query]
-
-![screenshot](screenshot.png?raw=true)
-
-### 2 (4 points)
-
-> db.course_events.[complete this query]
-
-![screenshot](screenshot.png?raw=true)
-
-### 3 (4 points)
-
-> db.course_events.[complete this query]
-
-![screenshot](screenshot.png?raw=true)
-
-### 4 (4 points)
-
-> db.course_events.[complete this query]
-
-![screenshot](screenshot.png?raw=true)
-
-### 5 (4 points)
-
-> db.course_events.[complete this query]
-
-![screenshot](screenshot.png?raw=true)
-
-### 6 (4 points)
-
-> db.course_events.[complete this query]
-
-![screenshot](screenshot.png?raw=true)
-
-### 7 (4 points)
-
-> db.course_events.[complete this query]
-
-![screenshot](screenshot.png?raw=true)
-
-### 8 (4 points)
-
-> db.course_events.[complete this query]
-
-![screenshot](screenshot.png?raw=true)
-
-### 9 (4 points)
-
-> db.course_events.[complete this query]
-
-![screenshot](screenshot.png?raw=true)
-
-### 10 (4 points)
-
-> db.course_events.[complete this query]
-
-![screenshot](screenshot.png?raw=true)
 
 
 ## Challenge 2 (8 points x 2 = 16 points) 
 
-### 1 (8 points)
-
-{question-in-plain-English}
-
-> db.course_events.[complete this query]
-
-![screenshot](screenshot.png?raw=true)
-
-### 2 (8 points)
-
-{question-in-plain-English}
-
-> db.course_events.[complete this query]
-
-![screenshot](screenshot.png?raw=true)
+## I Was not at hackathon; I cannot complete it
